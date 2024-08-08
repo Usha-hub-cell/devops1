@@ -1,2 +1,6 @@
 "This is the original file content." 
+<<<<<<< HEAD
 "Changes from branch_one" 
+=======
+"Conflicting changes from branch_two" 
+>>>>>>> branch_two
